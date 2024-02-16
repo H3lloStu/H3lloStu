@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm H3lloStu</h1>
-<h3 align="center">H3lloStu passionate about Cybersecurity, began his studies in 2023 at Epicode School, establishing a strong foundation. Eager for knowledge, he enhanced his skills with online certifications, mastering cybersecurity intricacies. Now, he's well-equipped to address the digital world's complex challenges.</h3>
+<h3 align="center">H3lloStu passionate about Cybersecurity establishing a strong foundation. Eager for knowledge, he enhanced his skills with online certifications, mastering cybersecurity intricacies. Now, he's well-equipped to address the digital world's complex challenges.</h3>
 <img align="right" alt="Coding" widht="400" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h3llostu&label=Profile%20views&color=0e75b6&style=flat" alt="h3llostu" /> </p>
