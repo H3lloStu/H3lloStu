@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [malware analysis](https://github.com/H3lloStu)
 
-- 🌱 I’m currently learning **Comptia Security+**
+- 🌱 I’m achieved successfully **Comptia Security+**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/riccardo-lattanzi9/](https://www.linkedin.com/in/riccardo-lattanzi9/)
 
